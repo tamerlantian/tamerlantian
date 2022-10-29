@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on everything. Trying to improve my frontend developer skills by solving frontend mentor challenges and building apps by my own 
+
 <!--
 **tamerlantian/tamerlantian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
