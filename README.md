@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I´m Sebastian 👋
 
 - 🔭 I’m currently working on everything. Trying to improve my frontend developer skills by solving frontend mentor challenges and building apps by my own.
 - 🌱 I’m currently learning React, NodeJS and MongoDB. I'm enrolled in MisionTIC2022 which is a government program aimed at training software developers in Colombia.
