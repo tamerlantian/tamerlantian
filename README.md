@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning React, NodeJS and MongoDB. I'm enrolled in MisionTIC2022 which is a government program aimed at training software developers in Colombia.
 - 👯 I’m looking to collaborate on Javascript based open source projects.
 - 📫 You can reach me on Linkedin [@tamerlantian](https://www.linkedin.com/in/sebastian-hoyos-piedrahita-870293252/) 
+- 👾 Tryhackme profile [@tamerlan](https://tryhackme.com/p/tamerlan)
+- 👨‍💻 Codewars statistics [@ian_2398](https://www.codewars.com/users/ian_2398/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
