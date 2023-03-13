@@ -1,10 +1,10 @@
 ### Hi there, I´m Sebastian 👋
 
 - 🔭 I’m currently working on everything. Trying to improve my frontend developer skills by solving frontend mentor challenges and building apps by my own.
-- 🌱 I’m currently learning React, NodeJS and MongoDB. I'm enrolled in MisionTIC2022 which is a government program aimed at training software developers in Colombia.
-- 👯 I’m looking to collaborate on Javascript based open source projects.
+- 🌱 I’m currently learning React, NodeJS and MongoDB.
+- 👯 [@trywilco](https://app.wilco.gg/portfolio/tamerlantian) ambassador.
 - 📫 You can reach me on Linkedin [@tamerlantian](https://www.linkedin.com/in/sebastian-hoyos-piedrahita-870293252/) 
-- 👾 Tryhackme profile [@tamerlan](https://tryhackme.com/p/tamerlan)
+- 💻 FrontendMentor profile [@tamerlantian](https://www.frontendmentor.io/profile/tamerlantian)
 - 👨‍💻 Codewars statistics [@ian_2398](https://www.codewars.com/users/ian_2398/)
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -20,17 +20,4 @@
   
 </div>
 
-<!--
-**tamerlantian/tamerlantian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamerlantian&show_icons=true&theme=radical)
