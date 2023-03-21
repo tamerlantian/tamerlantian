@@ -1,6 +1,6 @@
 ### Hi there, I´m Sebastian 👋
 
-- 🔭 I’m currently working on everything. Trying to improve my frontend and backend skills by building apps on my own and helping people on discord.
+- 🔭 I’m currently working on everything. Trying to improve my frontend and backend skills by building apps on my own and helping people on discord communities.
 - 🌱 I’m currently learning React, NodeJS and MongoDB.
 - 👯 [@trywilco](https://app.wilco.gg/portfolio/tamerlantian) ambassador.
 - 📫 You can reach me on Linkedin [@tamerlantian](https://www.linkedin.com/in/sebastian-hoyos-piedrahita-870293252/) 
